@@ -1,1 +1,2 @@
 # HashMaps
+This was my final project for my CS 261, Data Structures. It contains two files that I coded. HashMaps_SC represents a HashMap class with separate chaining utilizing a linked list, and HashMaps_OA represents a HashMap class with open addressing using quadratic probing. These two files demonstrate my proficiency in Python, Including Classes, Hash Maps, and adherence to time complexity for functions. 
